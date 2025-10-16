@@ -333,7 +333,7 @@
     <section id="hero" class="section hero">
         <h1>Samarth M Katageri</h1>
         <p>DevOps & Java Full Stack Developer</p>
-        <p class="tagline">I like minimal designs so, this is minimal without any distractions</p>
+        <p class="tagline">Content in CI/CD, GitHub, and scripting languages for pipeline and automation</p>
     </section>
 
     <section id="summary" class="section summary">
